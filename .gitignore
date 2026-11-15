@@ -1,0 +1,7 @@
+#Secrets
+.env
+
+#Front
+nodes_modules/
+
+#Back
